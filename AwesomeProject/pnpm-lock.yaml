@@ -2678,8 +2678,8 @@ packages:
     engines: {node: '>=16'}
     hasBin: true
 
-  micromatch@4.0.5:
-    resolution: {integrity: sha512-DMy+ERcEW2q8Z2Po+WNXuw3c5YaUSFjAO5GsJqfEl7UjvtIuFKO6ZrKvcItdy98dwFI2N1tg3zNIdKaQT+aNdA==}
+  micromatch@4.0.8:
+    resolution: {integrity: sha512-PXwfBhYu0hBCPw8Dn0E+WDYb7af3dSLVWKi3HGv84IdF4TyFoC0ysxFd0Goxw7nSv4T/PzEJQxsYsEiFCKo2BA==}
     engines: {node: '>=8.6'}
 
   mime-db@1.52.0:
@@ -4539,7 +4539,7 @@ snapshots:
       jest-util: 29.6.3
       jest-validate: 29.6.3
       jest-watcher: 29.6.4
-      micromatch: 4.0.5
+      micromatch: 4.0.8
       pretty-format: 29.6.3
       slash: 3.0.0
       strip-ansi: 6.0.1
@@ -4654,7 +4654,7 @@ snapshots:
       jest-haste-map: 29.6.4
       jest-regex-util: 29.6.3
       jest-util: 29.6.3
-      micromatch: 4.0.5
+      micromatch: 4.0.8
       pirates: 4.0.6
       slash: 3.0.0
       write-file-atomic: 4.0.2
@@ -5943,7 +5943,7 @@ snapshots:
       '@nodelib/fs.walk': 1.2.8
       glob-parent: 5.1.2
       merge2: 1.4.1
-      micromatch: 4.0.5
+      micromatch: 4.0.8
 
   fast-json-stable-stringify@2.1.0: {}
 
@@ -6431,7 +6431,7 @@ snapshots:
       jest-runner: 29.6.4
       jest-util: 29.6.3
       jest-validate: 29.6.3
-      micromatch: 4.0.5
+      micromatch: 4.0.8
       parse-json: 5.2.0
       pretty-format: 29.6.3
       slash: 3.0.0
@@ -6483,7 +6483,7 @@ snapshots:
       jest-regex-util: 29.6.3
       jest-util: 29.6.3
       jest-worker: 29.6.4
-      micromatch: 4.0.5
+      micromatch: 4.0.8
       walker: 1.0.8
     optionalDependencies:
       fsevents: 2.3.3
@@ -6507,7 +6507,7 @@ snapshots:
       '@types/stack-utils': 2.0.1
       chalk: 4.1.2
       graceful-fs: 4.2.11
-      micromatch: 4.0.5
+      micromatch: 4.0.8
       pretty-format: 29.6.3
       slash: 3.0.0
       stack-utils: 2.0.6
@@ -6725,7 +6725,7 @@ snapshots:
       chalk: 4.1.2
       flow-parser: 0.206.0
       graceful-fs: 4.2.11
-      micromatch: 4.0.5
+      micromatch: 4.0.8
       neo-async: 2.6.2
       node-dir: 0.1.17
       recast: 0.21.5
@@ -6915,7 +6915,7 @@ snapshots:
       jest-regex-util: 27.5.1
       jest-util: 27.5.1
       jest-worker: 27.5.1
-      micromatch: 4.0.5
+      micromatch: 4.0.8
       node-abort-controller: 3.1.1
       nullthrows: 1.1.1
       walker: 1.0.8
@@ -6934,7 +6934,7 @@ snapshots:
       jest-regex-util: 27.5.1
       jest-util: 27.5.1
       jest-worker: 27.5.1
-      micromatch: 4.0.5
+      micromatch: 4.0.8
       node-abort-controller: 3.1.1
       nullthrows: 1.1.1
       walker: 1.0.8
@@ -7327,7 +7327,7 @@ snapshots:
       - supports-color
       - utf-8-validate
 
-  micromatch@4.0.5:
+  micromatch@4.0.8:
     dependencies:
       braces: 3.0.3
       picomatch: 2.3.1
